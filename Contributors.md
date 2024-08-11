@@ -113,7 +113,7 @@
 - [Shrey](https://github.com/shreykinshu)
 - [electroNBS](https://github.com/electroNBS)
 - [Rhett G](https://github.com/rhettg28)
-- [Scarlett] ()
+- [Scarlett Lim] ()
 - [Nikhil](https://github.com/Kirito-Excalibur)
 - [Anna Luz Serena](https://github.com/annaluzserena)
   [Xoalh](https://github.com/Xoalh)
